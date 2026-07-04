@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://yousef90901.github.io/chat",
+  "homepage": "https://yousef90901.github.io/chatai",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
